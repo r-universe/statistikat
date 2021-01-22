@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "simPop"]
+	path = simPop
+	url = https://github.com/statistikat/simpop
+	shallow = true
+[submodule "surveysd"]
+	path = surveysd
+	url = https://github.com/statistikat/surveysd
+	shallow = true
+[submodule "tatoo"]
+	path = tatoo
+	url = https://github.com/statistikat/tatoo
+	shallow = true
+[submodule "VIM"]
+	path = VIM
+	url = https://github.com/statistikat/vim
+	shallow = true
+[submodule "x12"]
+	path = x12
+	url = https://github.com/statistikat/x12
+	shallow = true
