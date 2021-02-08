@@ -23,3 +23,7 @@
 	path = x12
 	url = https://github.com/statistikat/x12
 	shallow = true
+[submodule "x12GUI"]
+	path = x12GUI
+	url = https://github.com/statistikat/x12GUI
+	shallow = true
