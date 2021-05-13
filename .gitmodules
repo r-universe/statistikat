@@ -8,28 +8,34 @@
 	url = https://github.com/statistikat/simpop
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "surveysd"]
 	path = surveysd
 	url = https://github.com/statistikat/surveysd
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "tatoo"]
 	path = tatoo
 	url = https://github.com/statistikat/tatoo
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "VIM"]
 	path = VIM
 	url = https://github.com/statistikat/vim
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "x12"]
 	path = x12
 	url = https://github.com/statistikat/x12
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "x12GUI"]
 	path = x12GUI
 	url = https://github.com/statistikat/x12GUI
 	shallow = true
 	registered = true
+	oncran = false
