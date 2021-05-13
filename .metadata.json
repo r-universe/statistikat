@@ -1,0 +1,26 @@
+[
+  {
+    "package": "simPop",
+    "oncran": true
+  },
+  {
+    "package": "surveysd",
+    "oncran": true
+  },
+  {
+    "package": "tatoo",
+    "oncran": true
+  },
+  {
+    "package": "VIM",
+    "oncran": true
+  },
+  {
+    "package": "x12",
+    "oncran": true
+  },
+  {
+    "package": "x12GUI",
+    "oncran": false
+  }
+]
