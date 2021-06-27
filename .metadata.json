@@ -21,6 +21,6 @@
   },
   {
     "package": "x12GUI",
-    "oncran": false
+    "oncran": true
   }
 ]
