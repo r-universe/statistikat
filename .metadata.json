@@ -18,8 +18,5 @@
   {
     "package": "x12",
     "oncran": true
-  },
-  {
-    "package": "x12GUI"
   }
 ]
