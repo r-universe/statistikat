@@ -8,11 +8,6 @@
 	url = https://github.com/statistikat/simpop
 	shallow = true
 	registered = true
-[submodule "surveysd"]
-	path = surveysd
-	url = https://github.com/statistikat/surveysd
-	shallow = true
-	registered = true
 [submodule "tatoo"]
 	path = tatoo
 	url = https://github.com/statistikat/tatoo
