@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "surveysd",
+    "oncran": true
+  },
+  {
     "package": "tatoo",
     "oncran": true
   },
