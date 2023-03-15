@@ -1,5 +1,9 @@
 [
   {
+    "package": "VIM",
+    "oncran": true
+  },
+  {
     "package": "simPop",
     "oncran": true
   },
@@ -8,15 +12,11 @@
     "oncran": true
   },
   {
-    "package": "tatoo",
-    "oncran": true
-  },
-  {
-    "package": "VIM",
-    "oncran": true
-  },
-  {
     "package": "x12",
+    "oncran": true
+  },
+  {
+    "package": "tatoo",
     "oncran": true
   }
 ]
